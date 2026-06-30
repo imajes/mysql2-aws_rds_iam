@@ -76,7 +76,7 @@ GEM
     simplecov_json_formatter (0.1.4)
     unicode-display_width (2.4.2)
     webrick (1.8.1)
-    yard (0.9.34)
+    yard (0.9.44)
     zeitwerk (2.6.8)
 
 PLATFORMS
